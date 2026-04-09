@@ -1,7 +1,3 @@
-# 💻 Victor S. R. Anjos
-
-**`Desenvolvedor Java`**
-
 <div align="center">
 
 <!-- HEADER BANNER -->
@@ -10,7 +6,6 @@
 </div>
 
 <!-- INTRO CARD -->
-<div align="center">
 
 <br/>
 
@@ -28,8 +23,6 @@ public class Victor extends Developer {
     }
 }
 ```
-
-</div>
 
 <br/>
 
@@ -108,19 +101,19 @@ public class Victor extends Developer {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=victor-samir&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=1a3a5c&title_color=e8d5a3&icon_color=8ab4d4&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-eta-swart-54.vercel.app/api?username=victorsranjos&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=1a3a5c&title_color=e8d5a3&icon_color=8ab4d4&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true" />
 &nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-samir&layout=compact&theme=github_dark&bg_color=0d1117&border_color=1a3a5c&title_color=e8d5a3&text_color=c9d1d9&hide_border=false&langs_count=8" />
+<img height="165" src="https://github-readme-stats-eta-swart-54.vercel.app/api/top-langs/?username=victorsranjos&layout=compact&theme=github_dark&bg_color=0d1117&border_color=1a3a5c&title_color=e8d5a3&text_color=c9d1d9&hide_border=false&langs_count=8" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-samir&theme=github-dark-blue&background=0d1117&border=1a3a5c&ring=e8d5a3&fire=f4a261&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8ab4d4&sideLabels=8ab4d4&dates=6e7681" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=victorsranjos&theme=github-dark-blue&background=0d1117&border=1a3a5c&ring=e8d5a3&fire=f4a261&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8ab4d4&sideLabels=8ab4d4&dates=6e7681" />
 
 </div>
 
 ---
 
-<!-- CURRENTLY WORKING ON -->
+<!-- CURRENTLY WORKING ON
 
 ### 🚧 Currently Building
 
@@ -130,7 +123,7 @@ public class Victor extends Developer {
 ▸ B.Sc. @ UESB             ──────────────────  Computer Science · Algorithms · Systems
 ```
 
----
+--- -->
 
 <!-- CONNECT -->
 
@@ -140,7 +133,7 @@ public class Victor extends Developer {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-victor--samir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-samir)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor@y&vsolutions.com)
-[![Portfolio](https://img.shields.io/badge/W3_Build-w3build.online-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://w3build.online)
+<!--[![Portfolio](https://img.shields.io/badge/W3_Build-w3build.online-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://w3build.online)-->
 
 </div>
 
@@ -159,18 +152,3 @@ public class Victor extends Developer {
 </sub>
 
 </div>
-
-<!--
-**victorsranjos/victorsranjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
