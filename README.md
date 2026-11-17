@@ -49,8 +49,7 @@ public class Victor extends Developer {
 
 &nbsp;&nbsp;⬛ &nbsp;**GFT Start #7 — Java** · GFT Technologies (2025)  
 &nbsp;&nbsp;🔵 &nbsp;**Residência Tecnológica — Sistemas Embarcados** · CEPEDI (2025)  
-&nbsp;&nbsp;🔷 &nbsp;**Intro to Cloud Computing** · IBM (2024)  
-&nbsp;&nbsp;🔷 &nbsp;**Intro to Web Dev** (HTML/CSS/JS) · IBM (2024)  
+&nbsp;&nbsp;🔷 &nbsp;**IBM Java Developer** · IBM (2026)  
 &nbsp;&nbsp;🟣 &nbsp;**EFSET English Certificate C2** · EF (2024)  
 
 </td>
