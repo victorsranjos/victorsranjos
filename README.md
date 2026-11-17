@@ -13,7 +13,6 @@
 public class Victor extends Developer {
 
     String[] stack    = { "Java", "Spring Boot", "JDBC", "AWS", "C/C++" };
-    String   status   = "Co-Founder @ Y&V Solutions";
     String   degree   = "B.Sc. Computer Science — UESB (2028)";
     String   english  = "C2 Proficient (EFSET 75/100)";
     boolean  openTo   = true; // junior roles & internships
